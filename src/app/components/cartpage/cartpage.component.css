@@ -1,0 +1,119 @@
+.top{
+    display: flex;
+ 
+ }
+ .count,.clear{
+   flex-basis: 50%;
+ }
+ .clear:hover{
+ cursor: pointer;
+ }
+ 
+ 
+ .page-link { 
+    line-height: 19px; 
+    width: 40px; 
+    font-size: 20px; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    color: #495057; 
+ } 
+ .page-item input { 
+    padding: 3px; 
+    font-size: 15px; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    text-align: center; 
+ } 
+ .page-link:hover { 
+    text-decoration: none; 
+    color: #495057; 
+    outline: none !important; 
+ } 
+ .page-link:focus { 
+    box-shadow: none; 
+ } 
+ 
+ .fa-heart:hover { color: red; }
+ 
+ 
+ 
+ 
+ 
+ .rate{
+    display: flex;
+ }
+ .price{
+    flex-basis: 50%;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 700;
+    color:#ff523b;
+ }
+ .heart{
+    flex-basis: 50%;
+    font-size: 15px;
+ }
+ .fa-trash:hover{
+    cursor: pointer;
+ }
+ 
+ .line{
+    /* border: solid 1px grey; */
+    width: 100%;
+ }
+ 
+ .title{
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
+ }
+ .desc{
+    color: #555;
+    font-weight: 600;
+ }
+ .sub{
+    font-size: 15px;
+    color: black;
+ }
+ 
+ .cart-info{
+    text-align: center;
+ }
+ .content{
+    width: 100%;
+ }
+ .content2{
+    padding: 0px;
+    width: 50%;
+    text-align: center;
+    justify-self: center;
+ }
+ 
+ .main{
+    display: flex;
+ }
+ .some{
+    display: flex;
+    flex-flow: column;
+ }
+ 
+ 
+ 
+ @media only screen and (max-width: 320px) {
+    .main{
+        display: block;
+    }
+    .content{
+        text-align: center;
+    }
+    .content2{
+        width: 100%;
+    }
+    .set_quantity{
+        height: 20px;
+    }
+  }
+  

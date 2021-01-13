@@ -1,0 +1,10 @@
+#sidebar{
+    position: fixed;
+    margin-top: 15px;
+  }
+   @media (max-width: 1280px) { 
+    #sidebar{
+       display:none;
+    }
+  }
+  

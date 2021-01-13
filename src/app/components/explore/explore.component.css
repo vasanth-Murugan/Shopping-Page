@@ -1,0 +1,39 @@
+#view{
+    width:7%;
+    margin-left: 85%;
+    margin-bottom: 5px;
+}
+
+@media (max-width: 1200px) { 
+   #view{
+       margin-left: 20%;
+       width:30%;
+   }
+}
+
+.top{
+   display: flex;
+}
+a {
+   color: #0da9ef;
+   text-decoration: none !important
+}
+
+.header{
+   margin-top: 140px;
+}
+.item img{
+   max-width: 100%;
+}
+
+@media (max-width: 297px) { 
+   .top{
+       display: none;
+   }
+}
+.title{
+   font-size: 9vm;
+   color: #ff523f;
+   font-weight: 500;
+}
+

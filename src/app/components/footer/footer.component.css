@@ -1,0 +1,39 @@
+.footer{
+    background: #000;
+    color:#8a8a8a;
+    font-size: 14px;
+}
+.footer p{
+    color:#8a8a8a;
+}
+.footer h3{
+    color:#fff;
+   /* margin-bottom: 20px; */
+}
+
+
+ img{
+    max-width: 20%;
+}
+
+
+
+
+.brand{
+    display: flex;
+    flex-wrap: wrap;
+}
+.brand div{
+    flex-grow: 1;
+    font-size: 25px;
+}
+.brand .text-right{
+  color:blue;
+}
+.brand .text-center{
+    color:green;
+  }
+  .brand .text-left{
+    color:rgba(255, 102, 0, 0.925);
+  }
+

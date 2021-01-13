@@ -1,0 +1,83 @@
+.fixed{
+    position: fixed;
+    width:100%;
+    top:0;
+    z-index: 1000;
+}
+.header-main {
+    position: relative;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: rgb(119, 126, 231);
+}
+
+
+.logo img{
+    max-width: 70%;
+    height:40px
+}
+
+.sear {
+    border: 1px solid #ffffff ;
+}
+
+.search-button {
+    color: #007bff;
+    background-color: #cccccc;
+    border-color: #ffffff
+}
+
+.navbar-main {
+    background-color: #fff
+}
+
+
+
+.navbar-toggler {
+    padding: 4px;
+    font-size: 22px;
+    line-height: 1;
+    background-color: transparent;
+    border: 1px solid transparent;
+}
+
+
+.navbar-toggler-icon {
+    background-image: url(https://img.icons8.com/ios/50/000000/menu.png);
+}
+
+
+
+
+.login {
+    color: white;
+}
+#nav{
+    display: flex;
+    justify-content: center;
+    flex: 1 1 auto;
+}
+
+
+
+.item-number {
+    height: 20px;
+    font-weight: 500;
+    color: #fff;
+    line-height: 12px;
+    position: absolute
+}
+.search{
+    border:1px  solid;
+    border-radius: 4px;
+}
+
+@media only screen and (max-width: 275px){
+   .sear{
+       width:118px;
+   }
+   .input-group{
+       width:160px;
+   }
+}
+
