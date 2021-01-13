@@ -1,0 +1,126 @@
+[
+
+    {
+        "id": 1,
+      "name": "RealmeX2",
+      "description": "4 GB RAM , 64 GB ROM , Expandable Upto 256 GB 16.56 cm (6.52 inch) HD+ Display 48MP + 8MP + 2MP | 8MP Front Camera 6000 mAh Lithium-ion Battery",
+      "price": 10000 ,
+      "imageUrl": "/assets/image/realmex2.jpeg",
+      "Quantity" : 1
+    },
+    {
+        "id": 2,
+      "name": "RedmiK20",
+      "description": "4 GB RAM , 64 GB ROM , Expandable Upto 256 GB 16.56 cm (6.52 inch) HD+ Display 48MP + 8MP + 2MP | 8MP Front Camera 6000 mAh Lithium-ion Battery",
+      "price": 12000 ,
+      "imageUrl": "/assets/image/redmik20.jpeg",
+      "Quantity" : 1
+    },
+    {
+      "id": 3,
+    "name": "PocoM2",
+    "description": "4 GB RAM , 64 GB ROM , Expandable Upto 256 GB 16.56 cm (6.52 inch) HD+ Display 48MP + 8MP + 2MP | 8MP Front Camera 6000 mAh Lithium-ion Battery",
+    "price": 15000 ,
+    "imageUrl": "/assets/image/poco-m2.jpg",
+    "Quantity" : 1
+    },
+    {
+      "id": 4,
+    "name": "Lg G6",
+    "description": "4 GB RAM , 64 GB ROM , Expandable Upto 256 GB 16.56 cm (6.52 inch) HD+ Display 48MP + 8MP + 2MP | 8MP Front Camera 6000 mAh Lithium-ion Battery",
+    "price": 14999 ,
+    "imageUrl": "/assets/image/lg.png",
+    "Quantity" : 1
+    },
+    {
+      "id": 5,
+    "name": "realmeC15",
+    "description": "4 GB RAM , 64 GB ROM , Expandable Upto 256 GB 16.56 cm (6.52 inch) HD+ Display 48MP + 8MP + 2MP | 8MP Front Camera 6000 mAh Lithium-ion Battery",
+    "price": 13999 ,
+    "imageUrl": "/assets/image/realmec15.jpeg",
+    "Quantity" : 1
+    },
+    {
+    "id": 6,
+    "name": "OppoA8",
+    "description": "4 GB RAM , 64 GB ROM , Expandable Upto 256 GB 16.56 cm (6.52 inch) HD+ Display 48MP + 8MP + 2MP | 8MP Front Camera 6000 mAh Lithium-ion Battery",
+    "price": 10999 ,
+    "imageUrl": "/assets/image/oppoa8.jpeg",
+    "Quantity" : 1
+    },
+    {
+      "id": 7,
+    "name": "OppoK3",
+    "description": "4 GB RAM , 64 GB ROM , Expandable Upto 256 GB 16.56 cm (6.52 inch) HD+ Display 48MP + 8MP + 2MP | 8MP Front Camera 6000 mAh Lithium-ion Battery",
+    "price": 8999 ,
+    "imageUrl": "/assets/image/oppoK3.jpeg",
+    "Quantity" : 1
+  },
+  {
+      "id": 8,
+    "name": "OppoA1K",
+    "description": "4 GB RAM , 64 GB ROM , Expandable Upto 256 GB 16.56 cm (6.52 inch) HD+ Display 48MP + 8MP + 2MP | 8MP Front Camera 6000 mAh Lithium-ion Battery",
+    "price": 12999 ,
+    "imageUrl": "/assets/image/oppoa1.jpg",
+    "Quantity" : 1
+  },
+  {
+    "id": 9,
+  "name": "OppoA12",
+  "description": "4 GB RAM , 64 GB ROM , Expandable Upto 256 GB 16.56 cm (6.52 inch) HD+ Display 48MP + 8MP + 2MP | 8MP Front Camera 6000 mAh Lithium-ion Battery",
+  "price": 15999 ,
+  "imageUrl": "/assets/image/oppoA12.jpeg",
+  "Quantity" : 1
+  },
+  {
+    "id": 10,
+  "name": "OppoF17",
+  "description": "4 GB RAM , 64 GB ROM , Expandable Upto 256 GB 16.56 cm (6.52 inch) HD+ Display 48MP + 8MP + 2MP | 8MP Front Camera 6000 mAh Lithium-ion Battery",
+  "price": 12000 ,
+  "imageUrl": "/assets/image/oppoF17.jpeg",
+  "Quantity" : 1
+  },
+  {
+    "id": 11,
+  "name": "RealmeC11",
+  "description": "4 GB RAM , 64 GB ROM , Expandable Upto 256 GB 16.56 cm (6.52 inch) HD+ Display 48MP + 8MP + 2MP | 8MP Front Camera 6000 mAh Lithium-ion Battery",
+  "price": 10000 ,
+  "imageUrl": "/assets/image/realmec11.jpeg",
+  "Quantity" : 1
+  },
+  {
+  "id": 12,
+  "name": "RealmeNorzo",
+  "description": "4 GB RAM , 64 GB ROM , Expandable Upto 256 GB 16.56 cm (6.52 inch) HD+ Display 48MP + 8MP + 2MP | 8MP Front Camera 6000 mAh Lithium-ion Battery",
+  "price": 15490 ,
+  "imageUrl": "/assets/image/realmenorzo.jpeg",
+  "Quantity" : 1
+  },
+  {
+    "id": 13,
+    "name": "Redmi 8A",
+    "description": "4 GB RAM , 64 GB ROM , Expandable Upto 256 GB 16.56 cm (6.52 inch) HD+ Display 48MP + 8MP + 2MP | 8MP Front Camera 6000 mAh Lithium-ion Battery",
+    "price": 16990 ,
+    "imageUrl": "/assets/image/redmi8a.jpeg",
+    "Quantity" : 1
+    },
+    {
+      "id": 14,
+      "name": "Redmi Note7",
+      "description": "4 GB RAM , 64 GB ROM , Expandable Upto 256 GB 16.56 cm (6.52 inch) HD+ Display 48MP + 8MP + 2MP | 8MP Front Camera 6000 mAh Lithium-ion Battery",
+      "price": 12990 ,
+      "imageUrl": "/assets/image/redminote7.jpeg",
+      "Quantity" : 1
+      },
+      {
+        "id": 15,
+        "name": "PocoF1",
+        "description": "4 GB RAM , 64 GB ROM , Expandable Upto 256 GB 16.56 cm (6.52 inch) HD+ Display 48MP + 8MP + 2MP | 8MP Front Camera 6000 mAh Lithium-ion Battery",
+        "price": 10000 ,
+        "imageUrl": "/assets/image/pocof1.jpeg",
+        "Quantity" : 1
+        }
+    
+    
+] 
+ 
