@@ -8,7 +8,7 @@ import { Product } from '../../model/product';
 })
 export class ProductService {
   
-  public url: string= "/assets/data/product.json";
+  public url: string= "/src/assets/data/product.json";
   constructor(private http:HttpClient) { }
   
   getProducts(): Observable<Product[]>{
